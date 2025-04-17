@@ -17,7 +17,8 @@ This project is a sandbox for:
 - `CONTRIBUTING.md` – How to contribute to this project
 
 ## ✅ License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License 2.0](LICENSE).
+
 
 ## 📬 Contact
 If you want to reach out, feel free to open an issue or pull request. Feedback is always welcome!
